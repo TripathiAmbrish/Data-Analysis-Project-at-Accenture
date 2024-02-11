@@ -8,7 +8,8 @@
 - [Tools Used](#Tools-Used)
 - [Process](#Process)
 - [Data Analysis](#Data-Analysis)
-- [Suggestions, Actions and Solutions](#Suggestions,-Actions-and-Solutions)
+- [Suggestions, Actions and Solutions](#Suggestions-Actions-and-Solutions)
+- [Limitations](Limitations)
 
 ## Project Overview
 
@@ -73,7 +74,7 @@ This .csv dataset comprises three tables - Content, Reaction, and ReactionTypes.
 - EDA involved exlporing the Content and reactions data to answer the questions.
 - Also performed sentiment analysis.
 
-## Data Anlaysis
+## Data Analysis
 
 - Bar Chart: Top 5 Categories
 Utilized to spotlight the platform's content powerhouses—Animals, Science, Healthy Eating, Technology, and Food. Allocating resources to these top-performing categories enhances user engagement and platform vitality.
