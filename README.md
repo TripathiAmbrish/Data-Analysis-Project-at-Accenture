@@ -55,10 +55,78 @@ This .csv dataset comprises three tables - Content, Reaction, and ReactionTypes.
      in Power Query
 - Created Data Model using keys in Model tab.
 
+  ![Screenshot 2024-02-11 232350](https://github.com/TripathiAmbrish/Data-Analysis-Project-at-Accenture/assets/139352292/8f309676-3b4a-46ef-9faf-1ac634f21ca6)
+
 ### EDA and Data Visualzation
 
 - Created Visuals using KPIs, Charts and Filters.
 - EDA involved exlporing the Content and reactions data to answer the questions.
 - Also performed sentiment analysis.
 
+## Data Anlaysis
+
+- Bar Chart: Top 5 Categories
+Utilized to spotlight the platform's content powerhouses—Animals, Science, Healthy Eating, Technology, and Food. Allocating resources to these top-performing categories enhances user engagement and platform vitality.
+
+= KPIs: Number of Reactions and Unique Categories
+Key Performance Indicators tracking overall user engagement and content diversity. Guides and community feedback platforms amplify user understanding, fostering a vibrant and varied user experience.
+
+- Line Chart: Total Posts By Month
+Illustrates posting trends, essential for strategic planning. Collaboration with influencers and targeted campaigns during slower months maintains consistent user interaction and platform visibility.
+
+- Pie Chart: Sentiment Analysis – Reactions By Sentiment Type
+Provides a snapshot of user sentiment. Investing in advanced sentiment analysis and content moderation systems improves sentiment accuracy, ensuring a positive user experience.
+
+- Horizontal Bar Chart: Content Type Distribution – Posts By Content Type
+Empowers content creators with insights into their content's performance. The development of an analytics dashboard guides creators, enhancing content quality and engagement.
+
+- Line Chart: Total Reactions By Month
+Reveals monthly engagement patterns. Utilizing push notifications strategically during specific months promotes increased user participation and community activity.
+
 ## Insights
+
+- Top 5 Categories:
+Animals
+ScienceHealthy Eating
+Technology
+Food
+
+- There are total 16 Unique categories
+
+- There 1895 reactions for Animal which is the most popular category.
+
+- January was the month with most posts. 781 posts were posted.
+
+- Sentiment analysis:
+56.19% Positive Reactions on Posts.
+31.31% and 12.5% were Negative and Neutral.
+
+- January, August and December were the months with highest engament.
+
+
+## Suggestions, Actions and Solutions
+
+#### Suggestions:
+
+- Conduct audience surveys to identify subtopics in top categories.
+- Develop guides to educate users on content categories.
+- Collaborate with influencers for platform visibility.
+- Invest in advanced sentiment analysis algorithms.
+- Implement an analytics dashboard for content creators.
+
+#### Actions:
+
+- Push subtopics in top categories for increased engagement.
+= Establish community feedback platforms for category suggestions.
+- Run targeted marketing campaigns for visibility.
+- Collaborate with data scientists to improve sentiment analysis.
+- Provide insights to content creators through an analytics dashboard.
+
+Solutions:
+
+- Create in-app notifications for lesser-known categories.
+- Implement user-generated category suggestions with a voting mechanism.
+- Design campaigns inspiring users to create content with specific themes.
+- Collaborate with data scientists for sentiment accuracy.
+- Flag or review content with consistently negative sentiments.
+
