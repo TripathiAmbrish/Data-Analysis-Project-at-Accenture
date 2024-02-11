@@ -2,13 +2,13 @@
 
 ## Table Contents
 
-- [Project Overview](Project-Overview)
-- [Objective](Objective)
-- [About Dataset](About-Dataset)
-- [Tools Used](Tools-Used)
-- [Process](Process)
-- [Data Analysis](Data-Analysis)
-- [Suggestions, Actions and Solutions](Suggestions,-Actions-and-Solutions)
+- [Project Overview](#Project-Overview)
+- [Objective](#Objective)
+- [About Dataset](#About-Dataset)
+- [Tools Used](#Tools-Used)
+- [Process](#Process)
+- [Data Analysis](#Data-Analysis)
+- [Suggestions, Actions and Solutions](#Suggestions,-Actions-and-Solutions)
 
 ## Project Overview
 
