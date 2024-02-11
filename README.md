@@ -1,5 +1,15 @@
 # Data Analytics Project: Navigating Numbers
 
+## Table Contents
+
+- [Project Overview](Project-Overview)
+- [Objective](Objective)
+- [About Dataset](About-Dataset)
+- [Tools Used](Tools-Used)
+- [Process](Process)
+- [Data Analysis](Data-Analysis)
+- [Suggestions, Actions and Solutions](Suggestions,-Actions-and-Solutions)
+
 ## Project Overview
 
 In collaboration with Social Buzz, our data analytics team addresses challenges in resource allocation, unstructured data, and technology, preparing the platform for a successful IPO.
@@ -68,7 +78,7 @@ This .csv dataset comprises three tables - Content, Reaction, and ReactionTypes.
 - Bar Chart: Top 5 Categories
 Utilized to spotlight the platform's content powerhouses—Animals, Science, Healthy Eating, Technology, and Food. Allocating resources to these top-performing categories enhances user engagement and platform vitality.
 
-= KPIs: Number of Reactions and Unique Categories
+- KPIs: Number of Reactions and Unique Categories
 Key Performance Indicators tracking overall user engagement and content diversity. Guides and community feedback platforms amplify user understanding, fostering a vibrant and varied user experience.
 
 - Line Chart: Total Posts By Month
@@ -117,12 +127,12 @@ Food
 #### Actions:
 
 - Push subtopics in top categories for increased engagement.
-= Establish community feedback platforms for category suggestions.
+- Establish community feedback platforms for category suggestions.
 - Run targeted marketing campaigns for visibility.
 - Collaborate with data scientists to improve sentiment analysis.
 - Provide insights to content creators through an analytics dashboard.
 
-Solutions:
+### Solutions:
 
 - Create in-app notifications for lesser-known categories.
 - Implement user-generated category suggestions with a voting mechanism.
@@ -130,3 +140,6 @@ Solutions:
 - Collaborate with data scientists for sentiment accuracy.
 - Flag or review content with consistently negative sentiments.
 
+## Limitations
+
+I have removed empty rows, user Id column and url column as they would have affected the esults from analysis and some are removed as they weren't required.
