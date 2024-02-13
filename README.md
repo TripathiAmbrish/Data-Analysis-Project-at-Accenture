@@ -1,5 +1,9 @@
 # Data Analytics Project: Navigating Numbers
 
+![Screenshot 2024-02-13 231106](https://github.com/TripathiAmbrish/Data-Analysis-Project-at-Accenture/assets/139352292/f54fdd90-c2b1-40fe-8a31-974ea250f2bb)
+
+## [Dashboard Link](https://www.novypro.com/project/data-analytics-project-navigating-numbers)
+
 ## Table Contents
 
 - [Project Overview](#Project-Overview)
@@ -9,7 +13,7 @@
 - [Process](#Process)
 - [Data Analysis](#Data-Analysis)
 - [Suggestions, Actions and Solutions](#Suggestions-Actions-and-Solutions)
-- [Limitations](Limitations)
+- [Limitations](#Limitations)
 
 ## Project Overview
 
@@ -97,10 +101,10 @@ Reveals monthly engagement patterns. Utilizing push notifications strategically 
 ## Insights
 
 - Top 5 Categories:
-Animals
-ScienceHealthy Eating
-Technology
-Food
+  Animals
+  ScienceHealthy Eating
+  Technology
+  Food
 
 - There are total 16 Unique categories
 
