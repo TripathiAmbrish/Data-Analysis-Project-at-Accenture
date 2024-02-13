@@ -1,5 +1,7 @@
 # Data Analytics Project: Navigating Numbers
 
+## [Dashboard Link](https://www.novypro.com/project/data-analytics-project-navigating-numbers)
+
 ## Table Contents
 
 - [Project Overview](#Project-Overview)
@@ -9,7 +11,7 @@
 - [Process](#Process)
 - [Data Analysis](#Data-Analysis)
 - [Suggestions, Actions and Solutions](#Suggestions-Actions-and-Solutions)
-- [Limitations](Limitations)
+- [Limitations](#Limitations)
 
 ## Project Overview
 
