@@ -97,10 +97,10 @@ Reveals monthly engagement patterns. Utilizing push notifications strategically 
 ## Insights
 
 - Top 5 Categories:
-Animals
-ScienceHealthy Eating
-Technology
-Food
+  Animals
+  ScienceHealthy Eating
+  Technology
+  Food
 
 - There are total 16 Unique categories
 
