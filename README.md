@@ -1,4 +1,4 @@
-# Data Analytics Project: Navigating Numbers
+# Social Media Analytics Project: Navigating Numbers
 
 ![Screenshot 2024-02-13 231106](https://github.com/TripathiAmbrish/Data-Analysis-Project-at-Accenture/assets/139352292/f54fdd90-c2b1-40fe-8a31-974ea250f2bb)
 
